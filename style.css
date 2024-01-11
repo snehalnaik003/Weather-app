@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;1,300&display=swap');
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: pink;
+    background-image: url(https://images.unsplash.com/photo-1586514531030-32360ee14213?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    
+}
+.card{
+    color: white;
+    background: rgb(0, 115, 255);
+     border-radius: 30px;
+     border-width: 0;
+    width: 50px;
+    height: 500px;
+    
+    
+}
